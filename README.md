@@ -67,11 +67,16 @@ const aboutMe = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroar9&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
 </a>
 
+<br>
+
 <a href="https://github.com/pedroar9" title="Ilustração do mapeamento do meu Perfil">
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=pedroar9&show_icons=true&theme=dracula&line_height=30" alt="**PEDRO** github stats"/>
 </a>
 
-<br><br><br>
+<br>
+<br>
+<br>
+
 ## 📍 Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-pedroar9-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrocarlos-assis/)](https://www.linkedin.com/in/pedrocarlos-assis/)
