@@ -64,13 +64,13 @@ const aboutMe = {
 ## ⭐ Informações sobre minha conta GitHub
 
 <a href="https://github.com/pedroar9" title="Ilustração do Mapeamento de Linguagens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroar9&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroar9&theme=dracula" alt="Ilustração da leitura de linguagens de programação no perfil"/>
 </a>
 
 <br>
 
-<a href="https://github.com/pedroar9" title="Ilustração do mapeamento do meu Perfil">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=pedroar9&show_icons=true&theme=dracula&line_height=30" alt="**PEDRO** github stats"/>
+<a href="https://github.com/pedroar9" title="Ilustração do Mapeamento do meu Perfil">
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=pedroar9&show_icons=true&theme=dracula&line_height=27" alt="**Pedro** github stats"/>
 </a>
 
 <br>
