@@ -17,20 +17,32 @@ Here are some ideas to get you started:
 
 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
-## Mais sobre mim
+## 💻 Mais sobre mim 💻
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="430" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```Javasript
-const SEU_NOME = {
-  name: "Pedro Carlos",
-  acknowledgements: "ÁREA DE CONHECIMENTO",
-  primarySkillset: "ALGUMAS HABILIDADES",
-  languages: ["Python", "JavaScript", "React"]
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, Python, HTML, CSS],
+   technologies: {
+      frontEnd: {
+         js: ["React"],
+         ipynb: ["Jupyter] 
+         css: ["Bootstrap", "Material Design"]
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+         misc: ["Bash", "Linux", "Analytics"]
+      },
+      databases: ["MongoDB", "MySQL", "PostegreSQL"],
+      mobile: ["Android", "IOS"]
+   },
+   currentOccupation: ["I'm working in a public bank"],
 };
 ```
 
-## 🚀 Minhas Skills
+## 🚀 Minhas Skills 🚀
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Logo android"/></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Logo python"/> </code>
