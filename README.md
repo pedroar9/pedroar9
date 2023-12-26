@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Salve devs, meu nome é {Pedro}! 👋
+## 👨🏻‍💻 Salve devs, meu nome é {Pedro}! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo. <br>
+Sou de Brasília/DF - Brasil 🇧🇷
 
 ## 💻 Mais sobre mim 💻
 
