@@ -59,7 +59,7 @@ const SEU_NOME = {
 </a>
 
 <br><br><br>
-## Onde me encontrar
+## 📍 Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-pedroar9-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrocarlos-assis/)](https://www.linkedin.com/in/pedrocarlos-assis/)
 [![Gmail Badge](https://img.shields.io/badge/-pedrocarlos.assis@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrocarlos.assis@gmail.com)](mailto:pedrocarlos.assis@gmail.com)
