@@ -20,7 +20,7 @@ Sou de Brasília/DF - Brasil 🇧🇷
 
 ## 💻 Mais sobre mim 💻
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```javascript
 const aboutMe = {
@@ -43,7 +43,7 @@ const aboutMe = {
 };
 ```
 
-## 🚀 Minhas Skills 🚀
+## 🚀 Minhas Skills
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Logo android"/></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Logo python"/> </code>
@@ -60,25 +60,23 @@ const aboutMe = {
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Logo HTML"/> </code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Logo CSS"/> </code>
 
+<br>
 
 ## ⭐ Informações sobre minha conta GitHub
 
 <a href="https://github.com/pedroar9" title="Ilustração do Mapeamento de Linguagens">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroar9&theme=dracula" alt="Ilustração da leitura de linguagens de programação no perfil"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroar9&theme=dracula" alt="Ilustração da leitura de linguagens de programação no perfil"/>
 </a>
-
-<br>
 
 <a href="https://github.com/pedroar9" title="Ilustração do Mapeamento do meu Perfil">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=pedroar9&show_icons=true&theme=dracula&line_height=27" alt="**Pedro** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroar9&show_icons=true&theme=dracula&line_height=27" alt="**Pedro** github stats"/>
 </a>
-
-<br>
-<br>
 <br>
 
 ## 📍 Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-pedroar9-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrocarlos-assis/)](https://www.linkedin.com/in/pedrocarlos-assis/)
+[![Linkedin](https://img.shields.io/badge/-Pedro.Carlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrocarlos-assis/)](https://www.linkedin.com/in/pedrocarlos-assis/)
 [![Gmail Badge](https://img.shields.io/badge/-pedrocarlos.assis@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrocarlos.assis@gmail.com)](mailto:pedrocarlos.assis@gmail.com)
+<!--
 [![GitHub](https://img.shields.io/github/followers/pedroar9?label=follow&style=social)](https://github.com/pedroar9)
+-->
