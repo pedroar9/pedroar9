@@ -85,7 +85,7 @@ ____
 
  <img src="https://img.shields.io/badge/Android-3cc97b?style=for-the-badge&logo=android&logoColor=D3D3D3" />
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIMP-657D8B?style=for-the-badge&logo=gimp&logoColor=white" />
  <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" />
   <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 
@@ -109,9 +109,14 @@ ____
 ____
 
 ## 📍 Onde me encontrar
+<div> 
+<a href="https://github.com/pedroar9/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="mailto:pedrocarlos.assis@gmail.com)"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/pedrocarlos-assis/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/@pedroar9"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
-[![Linkedin](https://img.shields.io/badge/-Pedro.Carlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrocarlos-assis/)](https://www.linkedin.com/in/pedrocarlos-assis/)
-[![Gmail Badge](https://img.shields.io/badge/-pedrocarlos.assis@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrocarlos.assis@gmail.com)](mailto:pedrocarlos.assis@gmail.com)
+<br>
 
 [![GitHub](https://img.shields.io/github/followers/pedroar9?label=follow&style=social)](https://github.com/pedroar9)
 
+</div>
