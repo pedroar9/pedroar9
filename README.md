@@ -98,7 +98,6 @@ const aboutMe = {
 <a href="https://github.com/pedroar9" title="Ilustração do Mapeamento do meu Perfil">
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pedroar9&show_icons=true&theme=dracula&line_height=27&locale=pt-br&include_all_commits=true" alt="**Pedro** github stats"/>
 </a>
-
 <br>
 
 ---
