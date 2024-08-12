@@ -94,13 +94,17 @@ const aboutMe = {
 
 ## ⭐ Informações sobre minha conta GitHub
 
-<a href="https://github.com/pedroar9" title="Ilustração do Mapeamento de Linguagens">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroar9&theme=dracula&locale=pt-br&include_all_commits=true&show_icons=true" alt="Ilustração da leitura de linguagens de programação no perfil"/>
+<a href="https://github.com/pedroar9" title="Linguagens mais usadas">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroar9&theme=dracula&locale=pt-br&include_all_commits=true&show_icons=true" alt="Linguagens mais usadas"/>
 </a>
 
-<a href="https://github.com/pedroar9" title="Ilustração do Mapeamento do meu Perfil">
- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pedroar9&show_icons=true&theme=dracula&line_height=30&locale=pt-br&hide=issues,prs&count_private=true&include_all_commits=true" alt="**Pedro** github stats"/>
+<a href="https://github.com/pedroar9" title="Estatísticas do GitHub">
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pedroar9&show_icons=true&theme=dracula&line_height=30&locale=pt-br&hide=issues,prs&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
 </a>
+<a href="https://github.com/pedroar9" title="Contribuições">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroar9&theme=dracula&locale=pt-br" alt="Contribuições de pedroar9" />
+</a>
+
 <br>
 
 ---
@@ -118,3 +122,5 @@ const aboutMe = {
 [![GitHub](https://img.shields.io/github/followers/pedroar9?label=follow&style=social)](https://github.com/pedroar9)
 
 </div>
+
+
