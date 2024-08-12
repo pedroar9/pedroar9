@@ -49,41 +49,47 @@ const aboutMe = {
 
 <div>
    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+   <img src="https://img.shields.io/badge/Debian-a80030?style=for-the-badge&logo=debian&logoColor=white" />
+   <img src="https://img.shields.io/badge/Tucunaré-556472?style=for-the-badge&logo=fishshell&logoColor=yellow"/>
    <img src="https://img.shields.io/badge/bash-4EA94B?style=for-the-badge&logo=educative&logoColor=black" />
-   <img src="https://img.shields.io/badge/redhat-EE0000?style=for-the-badge&logo=redhat&logoColor=#EE0000" />
+   <img src="https://img.shields.io/badge/ubuntu-2c001e?style=for-the-badge&logo=ubuntu&logoColor=white" />
    <img src="https://img.shields.io/badge/Mint-87cf3E?style=for-the-badge&logo=linuxmint&logoColor=darkgreen" />
-   <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+   <img src="https://img.shields.io/badge/centos-262577?style=for-the-badge&logo=centos&logoColor=white" />
+  
+   
+  
+   
    <img src="https://img.shields.io/badge/htop-009020?style=for-the-badge&logo=htop&logoColor=white" />
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=F7DF1E"/>
+   <img src="https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=FFDE57"/>
    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
    <img src="https://img.shields.io/badge/apache hadoop-66CCFF?style=for-the-badge&logo=apache hadoop&logoColor=black"/>
-   <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+   <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=F7DF1E"/>
+   <img src="https://img.shields.io/badge/duckdb-ffde57?style=for-the-badge&logo=duckdb&logoColor=black" />
    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-   <img src="https://img.shields.io/badge/duckdb-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
-   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-   <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=yellow" />
+   
+   <img src="https://img.shields.io/badge/MongoDB-589636?style=for-the-badge&logo=mongodb&logoColor=white" />
+   <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=F7DF1E" />
    <img src="https://img.shields.io/badge/apache hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
    <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=red" />  
    <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" />
    <img src="https://img.shields.io/badge/Matomo-3152A0?style=for-the-badge&logo=Matomo&logoColor=white" />
-   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=black" />
    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=blue" />
-   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-   <img src="https://img.shields.io/badge/poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white" />
+   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+   <img src="https://img.shields.io/badge/poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=F7DF1E" />
    <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-   <img src="https://img.shields.io/badge/power bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" />
    <img src="https://img.shields.io/badge/sandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" />
+   <img src="https://img.shields.io/badge/power bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" />
    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-   <img src="https://img.shields.io/badge/VS Code-0078D4?style=for-the-badge&logo=viscode&logoColor=white" />
-   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+   <img src="https://img.shields.io/badge/CSS3-154881?style=for-the-badge&logo=css3&logoColor=white" />
+   <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
+   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=viscode&logoColor=white" />
+   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=black" />
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-   <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-   <img src="https://img.shields.io/badge/Android-3cc97b?style=for-the-badge&logo=android&logoColor=D3D3D3" />
+   <img src="https://img.shields.io/badge/gitlab-e24329?style=for-the-badge&logo=gitlab&logoColor=brown" />
+   <img src="https://img.shields.io/badge/Android-a4c639?style=for-the-badge&logo=android&logoColor=black" />
    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-   <img src="https://img.shields.io/badge/GIMP-657D8B?style=for-the-badge&logo=gimp&logoColor=white" />
+   <img src="https://img.shields.io/badge/GIMP-657D8B?style=for-the-badge&logo=gimp&logoColor=black" />
    <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" />
    <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </div>
