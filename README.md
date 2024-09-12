@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo. <br>
 Sou de Brasília/DF - Brasil 🇧🇷
 
-## 💻 Mais sobre mim 💻
+### 💻 Mais sobre mim 💻
 
 <img align="right" width="355" src="programming.gif" />
 
@@ -45,7 +45,7 @@ const aboutMe = {
 
 ---
 
-## 🚀 Minhas Skills
+### 📚 Minhas Skills
 
 <div>
    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -55,10 +55,7 @@ const aboutMe = {
    <img src="https://img.shields.io/badge/ubuntu-2c001e?style=for-the-badge&logo=ubuntu&logoColor=white" />
    <img src="https://img.shields.io/badge/Mint-87cf3E?style=for-the-badge&logo=linuxmint&logoColor=darkgreen" />
    <img src="https://img.shields.io/badge/centos-262577?style=for-the-badge&logo=centos&logoColor=white" />
-  
-   
-  
-   
+     
    <img src="https://img.shields.io/badge/htop-009020?style=for-the-badge&logo=htop&logoColor=white" />
    <img src="https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=FFDE57"/>
    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -69,16 +66,16 @@ const aboutMe = {
    
    <img src="https://img.shields.io/badge/MongoDB-589636?style=for-the-badge&logo=mongodb&logoColor=white" />
    <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=F7DF1E" />
-   <img src="https://img.shields.io/badge/apache hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
    <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=red" />  
+   <img src="https://img.shields.io/badge/apache hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
    <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" />
    <img src="https://img.shields.io/badge/Matomo-3152A0?style=for-the-badge&logo=Matomo&logoColor=white" />
    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=black" />
    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=blue" />
    <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
    <img src="https://img.shields.io/badge/poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=F7DF1E" />
-   <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
    <img src="https://img.shields.io/badge/sandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" />
+   <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
    <img src="https://img.shields.io/badge/power bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" />
    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
    <img src="https://img.shields.io/badge/CSS3-154881?style=for-the-badge&logo=css3&logoColor=white" />
@@ -90,16 +87,16 @@ const aboutMe = {
    <img src="https://img.shields.io/badge/Android-a4c639?style=for-the-badge&logo=android&logoColor=black" />
    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
    <img src="https://img.shields.io/badge/GIMP-657D8B?style=for-the-badge&logo=gimp&logoColor=black" />
-   <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" />
    <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+   <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" />
+   
 </div>
 
 <br>
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
-
+### 🔎 Informações sobre minha conta GitHub
 <a href="https://github.com/pedroar9" title="Linguagens mais usadas">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroar9&theme=dracula&locale=pt-br&include_all_commits=true&show_icons=true" alt="Linguagens mais usadas"/>
 </a>
@@ -109,6 +106,20 @@ const aboutMe = {
 </a>
 <a href="https://github.com/pedroar9" title="Contribuições">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroar9&theme=dracula&locale=pt-br" alt="Contribuições de pedroar9" />
+</a>
+<br>
+
+---
+
+### 🎲 Informações sobre minha conta no Roadmap.sh
+<a href="https://roadmap.sh" title="Estatísticas no roadmap.sh">
+  <img height=300 align="center" src="https://roadmap.sh/card/tall/6683657b4cb11461c0c82e2f?variant=dark" alt="Estatísticas no roadmap.sh"/>
+</a>
+
+
+
+<a href="https://roadmap.sh" title="Progresso no roadmap.sh">
+<img height=250 align="center" src="https://roadmap.sh/card/wide/6683657b4cb11461c0c82e2f?variant=dark&theme=dracula&locale=pt-br" alt="Estatísticas no roadmap.sh"/>
 </a>
 
 <br>
@@ -129,4 +140,4 @@ const aboutMe = {
 
 </div>
 
-
+---
