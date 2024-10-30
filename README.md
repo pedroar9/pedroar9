@@ -122,9 +122,20 @@ const aboutMe = {
 </a>
 </div>
 
-<br>
+---
+
+### 📍 Quantidade de visitas ao perfil
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/{pedroar9}/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
 
 ---
+
+
 
 ## 📍 Onde me encontrar
 
