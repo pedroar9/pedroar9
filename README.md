@@ -19,18 +19,20 @@ about_me = {
         "frontEnd": {
             "js": ["React"],
             "ipynb": ["Jupyter", "Pandas"],
-            "css": ["Bootstrap", "Material Design", "HTML5", "CSS3"],
+            "css": ["Bootstrap", "Material Design",
+                    "HTML5", "CSS3"],
         },
         "backEnd": {
             "js": ["Node", "Express"],
-            "misc": ["Linux", "Analytics", "Databricks", "Briefer"],
+            "misc": ["Linux", "Analytics",
+                     "Databricks", "Briefer"],
         },
-        "databases": ["MongoDB", "MySQL", "Hive", "Impala", "DBeaver", "Hue"],
+        "databases": ["MongoDB", "MySQL", "Hive",
+                      "Impala", "DBeaver", "Hue"],
         "mobile": ["Android", "iOS"],
     },
     "currentOccupation": ["I'm working in a public bank"],
 }
-
 ```
 
 ---
