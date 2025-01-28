@@ -11,25 +11,25 @@ Sou de Brasília/DF - Brasil 🇧🇷
 
 <img align="right" width="320" src="programming.gif"/>
 
-```javascript
-const aboutMe = {
-  pronouns: "he" | "him",
-  code: ["Python", "Javascript"],
-  technologies: {
-    frontEnd: {
-      js: ["React"],
-      ipynb: ["Jupyter", "Pandas"],
-      css: ["Bootstrap", "Material Design", "HTML5", "CSS3"],
+```python
+about_me = {
+    "pronouns": "he" | "him",
+    "code": ["Python", "Javascript"],
+    "technologies": {
+        "frontEnd": {
+            "js": ["React"],
+            "ipynb": ["Jupyter", "Pandas"],
+            "css": ["Bootstrap", "Material Design", "HTML5", "CSS3"],
+        },
+        "backEnd": {
+            "js": ["Node", "Express"],
+            "misc": ["Linux", "Analytics", "Databricks", "Briefer"],
+        },
+        "databases": ["MongoDB", "MySQL", "Hive", "Impala", "DBeaver", "Hue"],
+        "mobile": ["Android", "iOS"],
     },
-    backEnd: {
-      js: ["Node", "Express"],
-      misc: ["Bash", "Linux", "Analytics"],
-    },
-    databases: ["MongoDB", "MySQL", "Hive", "DBeaver"],
-    mobile: ["Android", "iOS"],
-  },
-  currentOccupation: ["I'm working in a public bank"],
-};
+    "currentOccupation": ["I'm working in a public bank"],
+}
 
 ```
 
