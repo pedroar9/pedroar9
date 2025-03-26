@@ -100,17 +100,21 @@ https://simpleicons.org
 ---
 
 ### 🔎 Informações sobre minha conta GitHub
-<a href="https://github.com/pedroar9" title="Linguagens mais usadas">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroar9&theme=dracula&locale=pt-br&include_all_commits=true&show_icons=true" alt="Linguagens mais usadas"/>
-</a>
-
 <a href="https://github.com/pedroar9" title="Estatísticas do GitHub">
- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pedroar9&show_icons=true&theme=dracula&line_height=30&locale=pt-br&hide=issues,prs&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
-</a>
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pedroar9&show_icons=true&theme=dracula&line_height=30&locale=pt-br&hide=issues,prs&count_private=true&hide_rank=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
+</a>  
+
+---
 <a href="https://github.com/pedroar9" title="Contribuições">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroar9&theme=dracula&locale=pt-br" alt="Contribuições de pedroar9" />
 </a>
-<br>
+<br>  
+
+---  
+
+<a href="https://github.com/pedroar9" title="Linguagens mais usadas">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroar9&theme=dracula&locale=pt-br&include_all_commits=true&show_icons=true" alt="Linguagens mais usadas"/>
+</a>  
 
 ---
 
@@ -118,8 +122,8 @@ https://simpleicons.org
 <div>
 <a href="https://roadmap.sh" title="Estatísticas no roadmap.sh">
   <img height=300 align="center" src="https://roadmap.sh/card/tall/6683657b4cb11461c0c82e2f?variant=dark" alt="Estatísticas no roadmap.sh"/>
-</a>
-
+</a>  
+    
 <a href="https://roadmap.sh" title="Progresso no roadmap.sh">
   <img height=200 align="center" src="https://roadmap.sh/card/wide/6683657b4cb11461c0c82e2f?variant=dark&theme=dracula&locale=pt-br" alt="Estatísticas no roadmap.sh"/>
 </a>
