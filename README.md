@@ -1,15 +1,18 @@
 <!--
 **pedroar9/pedroar9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<!--
+## 👨🏾‍💻 Salve devs, meu nome é {Pedro}! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+-->
+## 👨🏾‍💻 Salve devs, meu nome é {Pedro}!
 
-## 👨🏻‍💻 Salve devs, meu nome é {Pedro}! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo. <br>
 Sou de Brasília/DF - Brasil 🇧🇷
 
 ### 💻 Mais sobre mim 💻
 
-<img align="right" width="320" src="programming.gif"/>
+<img align="right" width="300" src="programming.gif"/>
 
 ```python
 about_me = {
@@ -56,8 +59,9 @@ https://simpleicons.org
      
    <img src="https://img.shields.io/badge/htop-009020?style=for-the-badge&logo=htop&logoColor=white" />
    <img src="https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=FFDE57"/>
-   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-   <img src="https://img.shields.io/badge/apache hadoop-66CCFF?style=for-the-badge&logo=apache hadoop&logoColor=black"/>
+   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />  
+   <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white"/>
+   <img src="https://img.shields.io/badge/apache%20hadoop-66CCFF?style=for-the-badge&logo=apache%20hadoop&logoColor=black"/>
    <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=F7DF1E"/>
    <img src="https://img.shields.io/badge/duckdb-ffde57?style=for-the-badge&logo=duckdb&logoColor=black" />
    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
