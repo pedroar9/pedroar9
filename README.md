@@ -139,7 +139,7 @@ https://simpleicons.org
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/{pedroar9}/count.svg"
+    src="https://profile-counter.deno.dev/:yourkey:/count.svg" 
     alt="Número de visitantes no perfil"
   />
 </p>
