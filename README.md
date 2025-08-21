@@ -12,7 +12,7 @@ Sou de Brasília/DF - Brasil 🇧🇷
 
 ### 💻 Mais sobre mim 💻
 
-<img align="right" width="300" src="programming.gif"/>
+<img  width="300" src="programming.gif"/>
 
 ```python
 about_me = {
