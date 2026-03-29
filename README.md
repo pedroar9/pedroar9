@@ -125,7 +125,7 @@ https://simpleicons.org
 ### 🎲 Informações sobre minha conta no Roadmap.sh
 <div>
 <a href="https://roadmap.sh" title="Estatísticas no roadmap.sh">
-  <img height=300 align="center" src="http://roadmap.sh/card/tall/6683657b4cb11461c0c82e2f?variant=dark" alt="Estatísticas no roadmap.sh"/>
+  <img height=300 align="center" src="https://roadmap.sh/card/tall/6683657b4cb11461c0c82e2f?variant=dark" alt="Estatísticas no roadmap.sh"/>
 </a>  
     
 <a href="https://roadmap.sh" title="Progresso no roadmap.sh">
